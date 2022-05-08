@@ -2,7 +2,7 @@ This directory contains the metric data we collected on all the various classifi
 
 All the accuracy, timing and memory metrics were run on a machine with the following specs:
    1) Operating System: Ubuntu 20.04
-   2) Processor:	AMD Ryzen 7 3700X 8-Core Processor, 3593 Mhz, 8 Core(s), 16 Logical Processor(s)
+   2) Processor: AMD Ryzen 7 3700X 8-Core Processor, 3593 Mhz, 8 Core(s), 16 Logical Processor(s)
    3) GPU: NVIDIA GeForce GTX 1660 SUPER
    4) 32.0 GB RAM
    
