@@ -1,0 +1,75 @@
+Accuracy on Training Set:
+
+KNN Accuracy: 1.0
+LogReg Accuracy: 0.8288700195950359
+SVM Accuracy: 0.8190725016329197
+NB Accuracy: 0.6949706074461136
+KM Accuracy: ??
+MLP Accuracy: 0.8986936642717178
+DT Accuracy: 0.720444154147616
+RF Accuracy: 0.806009144350098
+
+
+
+Accuracy on Test Set:
+
+KNN Accuracy: 0.6823899371069182
+LogReg Accuracy: 0.6792452830188679
+SVM Accuracy: 0.7044025157232704
+NB Accuracy: 0.6451612903225806
+KM Accuracy: 0.58217317487266553
+MLP Accuracy: 0.7578616352201258
+DT Accuracy: 0.6509433962264151
+RF Accuracy: 0.7232597623089984
+
+
+
+Specificity (on Test Set):
+
+KNN Specificity: 0.7375
+LogReg Specificity: 0.675
+SVM Specificity: 0.7125
+NB Specificity: 0.8966666666666666
+KM Specificity: 0.56
+MLP Specificity: 0.75625
+DT Specificity: 0.60625
+RF Specificity: 0.7833333333333333
+
+
+
+Sensitivity (on Test Set):
+
+KNN Sensitivity: 0.44936708860759494
+LogReg Sensitivity: 0.6835443037974683
+SVM Sensitivity: 0.6962025316455697
+NB Sensitivity: 0.38408304498269896
+KM Sensitivity: 0.4013840830449827
+MLP Sensitivity: 0.759493670886076
+DT Sensitivity: 0.6962025316455697
+RF Sensitivity: 0.6608996539792388
+
+
+
+Runtime on Test Set (Averaged, 50 runs):
+
+KNN Runtime: 0.0673s
+LogReg Runtime: 0.0015s
+SVM Runtime: 0.0231s
+NB Runtime: 0.0019s
+KM Runtime: 0.0231s
+MLP Runtime: 0.0025s
+DT Runtime: 0.0009s
+RF Runtime: 0.0065 seconds
+
+
+
+Memory Usage (Memory Required to Train the Classifier):
+
+KNN Training Memory: 0.1077 MiB
+LogReg Training Memory: 1.4587 MiB
+SVM Training Memory: 11.035 MiB
+NB Training Memory: 4.4 MiB
+K-Means Training Memory: 10.7 MiB
+MLP Training Memory: 7.3529 MiB
+DT Training Memory: 0.02 MiB
+RF Training Memory: 0.00447 MiB
