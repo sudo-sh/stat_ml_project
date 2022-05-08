@@ -1,0 +1,5 @@
+The third dataset we used for skin cancer classification. This is the same as the second dataset except instead of using PCA for dimensionality reduction, we used a different method (described in more detail in the report).
+
+#https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
+
+More details about the dataset can be found within the final project report.
